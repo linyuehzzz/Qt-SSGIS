@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>search (3).png</file>
+        <file>search (2).png</file>
+        <file>pine2.png</file>
+        <file>china.dat</file>
+        <file>china.opt</file>
+        <file>chnCity.txt</file>
+    </qresource>
+</RCC>
